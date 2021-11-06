@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import ttk
 
 
+x=5
 
 root = Tk()
 root.geometry('400x100')
