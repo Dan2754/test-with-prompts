@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import ttk
-
+y=10
 root = Tk()
 root.geometry('400x100')
 root.title("контрольная")
